@@ -1,0 +1,13 @@
+package com.mauricioandrade.agendadordetarefas;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AgendadordetarefasApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
